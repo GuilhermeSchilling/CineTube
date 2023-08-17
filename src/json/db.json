@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "RoboCop TRAILER 1 (2014)",
+        "capa": "https://m.media-amazon.com/images/I/51y4qLfHPGL._AC_UF894,1000_QL80_.jpg",
+        "link": "https://www.youtube.com/embed/UuVphAuRo7Q"
+    },
+    {
+        "id": 2,
+        "titulo": "OPPENHEIMER - Novo Trailer",
+        "capa": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/05/08/1448438428-4rjauid3yrcobehe2lr3e7sove.jpg",
+        "link": "https://www.youtube.com/embed/F3OxA9Cz17A"
+    },
+    {
+        "id": 3,
+        "titulo": "Gran Turismo – De Jogador a Corredor",
+        "capa": "https://br.web.img2.acsta.net/pictures/23/06/30/20/36/1745850.jpg",
+        "link": "https://www.youtube.com/embed/rO7NmYVLswA"
+    },
+    {
+        "id": 4,
+        "titulo": "Barbie | Trailer Dublado",
+        "capa": "https://www.shoppinganaliafranco.com.br/sites/saf/files/cinema/barbie.png",
+        "link": "https://www.youtube.com/embed/Ujs1Ud7k49M"
+    }
+]
